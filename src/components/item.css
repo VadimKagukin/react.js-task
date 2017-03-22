@@ -1,0 +1,30 @@
+.itemImage, img {
+    height: 250px;
+    width: 250px;
+    margin: 5px auto;
+}
+
+.itemInfo {
+    font-size: 15px;
+}
+
+.itemInfo .price {
+    font-size: 18px;
+    font-weight: bold;
+    color: blue;
+}
+
+.item {
+    margin: 10px 0;
+    padding: 10px 0;
+}
+
+.item:hover {
+    background: #F3F3F3;
+}
+
+.status {
+    font-size: 16px;
+    font-weight: bold;
+    font-style: italic;
+}
